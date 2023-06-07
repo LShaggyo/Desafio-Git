@@ -42,7 +42,7 @@ header p:hover {
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
